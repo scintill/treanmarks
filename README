@@ -1,0 +1,12 @@
+This is a (old, pre-v3) Firefox plugin to show Horde's Trean bookmarks directly
+in the browser.  As I remember it, it worked at one time.  I'm not sure whether
+to be proud or uneasy with the kludge that it is.  It hooked the bookmarks
+component and mixed in the Trean bookmarks, which is either clever or insane.
+I'm still somewhat interested in finishing something like this since I like
+the idea of synced bookmarks but am not fond of the cloud. However, these
+days I use Google Chrome.
+
+I started it in pursuit of a bounty, that no longer appears to be offered.
+There's an issue open at http://bugs.horde.org/ticket/2565 with information
+about the development of this plugin. If that's still accurate, it appears
+nobody has finished a Trean plugin.
