@@ -1,0 +1,12 @@
+<!ENTITY treanmarks.configDialog.title "TreanMarks Configuration">
+<!ENTITY treanmarks.configDialog.serverSettings "Horde Server Settings">
+<!ENTITY treanmarks.configDialog.server.caption "Horde Server URL">
+<!ENTITY treanmarks.configDialog.trackClicks.caption "Use Trean's click-tracking?">
+<!ENTITY treanmarks.configDialog.browserSettings "Browser Settings">
+<!ENTITY treanmarks.configDialog.separateMenus "Separate local and Trean bookmarks into different menus">
+<!ENTITY treanmarks.configDialog.bNoSort "Don't auto-sort Trean bookmarks and folders">
+<!ENTITY treanmarks.configDialog.swapCommandKeys.caption "Swap bookmark-making command keys?">
+<!ENTITY treanmarks.configDialog.bAutoSync.caption "Auto-sync with server?">
+<!ENTITY treanmarks.configDialog.syncInterval.caption "Sync time:">
+<!ENTITY treanmarks.configDialog.syncInterval.minutes "minute(s)">
+<!ENTITY treanmarks.configDialog.bSkipTopLevel.caption "Skip top-level folders (e.g. 'Joey's Bookmarks')">

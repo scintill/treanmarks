@@ -1,0 +1,8 @@
+content     treanmarks                    content/
+
+skin        treanmarks    classic/1.0     skin/classic/
+
+locale      treanmarks    en-US           locale/en-US/
+
+overlay chrome://browser/content/browser.xul chrome://treanmarks/content/overlays/browser.xul
+overlay chrome://global/content/commonDialog.xul chrome://treanmarks/skin/overlays/commonDialog.xul
